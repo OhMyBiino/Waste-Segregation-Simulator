@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\WasteSegregationSimulator\WasteSegregationSimulator\bin\Debug\net8.0\WasteSegregationSimulator.exe
+C:\Users\Admin\source\repos\WasteSegregationSimulator\WasteSegregationSimulator\bin\Debug\net8.0\WasteSegregationSimulator.deps.json
+C:\Users\Admin\source\repos\WasteSegregationSimulator\WasteSegregationSimulator\bin\Debug\net8.0\WasteSegregationSimulator.runtimeconfig.json
+C:\Users\Admin\source\repos\WasteSegregationSimulator\WasteSegregationSimulator\bin\Debug\net8.0\WasteSegregationSimulator.dll
+C:\Users\Admin\source\repos\WasteSegregationSimulator\WasteSegregationSimulator\bin\Debug\net8.0\WasteSegregationSimulator.pdb
+C:\Users\Admin\source\repos\WasteSegregationSimulator\WasteSegregationSimulator\obj\Debug\net8.0\WasteSegregationSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WasteSegregationSimulator\WasteSegregationSimulator\obj\Debug\net8.0\WasteSegregationSimulator.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WasteSegregationSimulator\WasteSegregationSimulator\obj\Debug\net8.0\WasteSegregationSimulator.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WasteSegregationSimulator\WasteSegregationSimulator\obj\Debug\net8.0\WasteSegregationSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WasteSegregationSimulator\WasteSegregationSimulator\obj\Debug\net8.0\WasteSegregationSimulator.sourcelink.json
+C:\Users\Admin\source\repos\WasteSegregationSimulator\WasteSegregationSimulator\obj\Debug\net8.0\WasteSegregationSimulator.dll
+C:\Users\Admin\source\repos\WasteSegregationSimulator\WasteSegregationSimulator\obj\Debug\net8.0\refint\WasteSegregationSimulator.dll
+C:\Users\Admin\source\repos\WasteSegregationSimulator\WasteSegregationSimulator\obj\Debug\net8.0\WasteSegregationSimulator.pdb
+C:\Users\Admin\source\repos\WasteSegregationSimulator\WasteSegregationSimulator\obj\Debug\net8.0\WasteSegregationSimulator.genruntimeconfig.cache
+C:\Users\Admin\source\repos\WasteSegregationSimulator\WasteSegregationSimulator\obj\Debug\net8.0\ref\WasteSegregationSimulator.dll
